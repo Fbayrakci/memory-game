@@ -119,7 +119,7 @@ class MainActivity : AppCompatActivity() {
 
                             firstFlippedImageView = null
                             secondFlippedImageView = null
-                        }, 200)
+                        }, 2000)
 
                     }
 

@@ -7,7 +7,7 @@
         android:toYScale="1.2"
         android:pivotX="50%"
         android:pivotY="50%"
-        android:duration="400"
+        android:duration="4200"
         android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
     <scale
         android:startOffset="200"
@@ -17,6 +17,6 @@
         android:toYScale="1.0"
         android:pivotX="50%"
         android:pivotY="50%"
-        android:duration="400"
+        android:duration="4200"
         android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
 </set>
