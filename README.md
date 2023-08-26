@@ -1,6 +1,6 @@
 # Memory Game App
 
-This Android application is a simple game that simulates the memory game. You try to match the same cards to earn points.
+This Android application is a simple game that simulates the memory game. You try to match the same cards.
 
 ## Features
 
