@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">memory-game</string>
+    <string name="restart_button_text">RESTART</string>
+</resources>
