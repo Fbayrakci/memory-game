@@ -19,9 +19,10 @@ This Android application is a simple game that simulates the memory game. You tr
 
 ## Screenshots
 
-![Screenshot 1](res/drawable/screenshot1.png)
-![Screenshot 2](res/drawable/screenshot2.png)
-![Screenshot 3](res/drawable/screenshot3.png)
+![Screenshot 1]<img width="220" alt="screenshot1" src="https://github.com/Fbayrakci/memory-game/assets/94195565/701b494c-06ca-41f8-b71b-dbe1e4ccee4d">
+![Screenshot 2]<img width="220" alt="screenshot2" src="https://github.com/Fbayrakci/memory-game/assets/94195565/d9598aff-fb1e-496a-86bf-e825435e5e8f">
+![Screenshot 3]<img width="220" alt="screenshot3" src="https://github.com/Fbayrakci/memory-game/assets/94195565/57b8da6e-2f4c-4d21-b838-5f284cc523af">
+
 
 ## Technologies and Tools Used
 
